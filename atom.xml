@@ -6,7 +6,7 @@
   <link href="http://weistuday.com/atom.xml" rel="self"/>
   
   <link href="http://weistuday.com/"/>
-  <updated>2020-11-12T14:50:25.498Z</updated>
+  <updated>2020-11-14T05:36:10.823Z</updated>
   <id>http://weistuday.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么要写博客?</title>
+    <link href="http://weistuday.com/posts/21454.html"/>
+    <id>http://weistuday.com/posts/21454.html</id>
+    <published>2020-11-14T05:18:59.000Z</published>
+    <updated>2020-11-14T05:36:10.823Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;1972年前,D.M.Ritchie 用C语言写出了世界上第一个C语言程序”Hello</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://weistuday.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>网络攻防_工具(五)</title>
@@ -503,34 +527,6 @@
     <category term="Spring" scheme="http://weistuday.com/tags/Spring/"/>
     
     <category term="OAuth2" scheme="http://weistuday.com/tags/OAuth2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Docker</title>
-    <link href="http://weistuday.com/posts/40991.html"/>
-    <id>http://weistuday.com/posts/40991.html</id>
-    <published>2020-09-16T02:50:52.000Z</published>
-    <updated>2020-09-17T07:45:51.115Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;环境 : 阿里云服务器 centos7&lt;/p&gt;
-&lt;h2 id=&quot;Dcoker概述&quot;&gt;&lt;a href=&quot;#Dcoker概述&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Docker" scheme="http://weistuday.com/categories/Docker/"/>
-    
-    
-    <category term="Markdown" scheme="http://weistuday.com/tags/Markdown/"/>
-    
-    <category term="Docker" scheme="http://weistuday.com/tags/Docker/"/>
     
   </entry>
   
