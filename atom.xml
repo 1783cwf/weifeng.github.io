@@ -6,7 +6,7 @@
   <link href="http://weistuday.com/atom.xml" rel="self"/>
   
   <link href="http://weistuday.com/"/>
-  <updated>2021-03-20T12:06:08.596Z</updated>
+  <updated>2021-06-02T08:11:33.575Z</updated>
   <id>http://weistuday.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>React基础</title>
+    <link href="http://weistuday.com/posts/35233.html"/>
+    <id>http://weistuday.com/posts/35233.html</id>
+    <published>2021-06-01T02:50:52.000Z</published>
+    <updated>2021-06-02T08:11:33.575Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;React基础知识点&quot;&gt;&lt;a href=&quot;#React基础知识点&quot; class=&quot;headerlink&quot; title=&quot;React基础知识点&quot;&gt;&lt;/a&gt;React基础知识点&lt;/h1&gt;&lt;h2 id=&quot;什么是React&quot;&gt;&lt;a href=&quot;#什么是React&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="React" scheme="http://weistuday.com/categories/React/"/>
+    
+    
+    <category term="React" scheme="http://weistuday.com/tags/React/"/>
+    
+  </entry>
   
   <entry>
     <title>Spring5</title>
@@ -496,33 +521,6 @@
     
     
     <category term="Java基础" scheme="http://weistuday.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SpringDataJpa实体类自动生成</title>
-    <link href="http://weistuday.com/posts/470.html"/>
-    <id>http://weistuday.com/posts/470.html</id>
-    <published>2020-09-17T04:53:33.000Z</published>
-    <updated>2020-09-17T04:59:32.296Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Spring-Data-Jpa实体类idea自动生成&quot;&gt;&lt;a href=&quot;#Spring-Data-Jpa实体类idea自动生成&quot; class=&quot;headerlink&quot; title=&quot;Spring Data Jpa实体类idea自动生成&quot;&gt;&lt;/a&gt;Spring</summary>
-        
-      
-    
-    
-    
-    <category term="SpringDataJpa" scheme="http://weistuday.com/categories/SpringDataJpa/"/>
-    
-    
-    <category term="Spring" scheme="http://weistuday.com/tags/Spring/"/>
-    
-    <category term="IntelliJIDEA" scheme="http://weistuday.com/tags/IntelliJIDEA/"/>
     
   </entry>
   
