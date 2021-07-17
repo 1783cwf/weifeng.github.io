@@ -6,7 +6,7 @@
   <link href="http://weistuday.com/atom.xml" rel="self"/>
   
   <link href="http://weistuday.com/"/>
-  <updated>2021-06-02T08:11:33.575Z</updated>
+  <updated>2021-07-17T05:55:33.173Z</updated>
   <id>http://weistuday.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Camunda</title>
+    <link href="http://weistuday.com/posts/34119.html"/>
+    <id>http://weistuday.com/posts/34119.html</id>
+    <published>2021-07-16T13:50:52.000Z</published>
+    <updated>2021-07-17T05:55:33.173Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;原文地址： &lt;a href=&quot;https://docs.camunda.org/get-started/quick-start/&quot;&gt;https://docs.camunda.org/get-started/quick-start/&lt;/a&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Camunda" scheme="http://weistuday.com/categories/Camunda/"/>
+    
+    
+    <category term="Camunda" scheme="http://weistuday.com/tags/Camunda/"/>
+    
+    <category term="工作流" scheme="http://weistuday.com/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>React基础</title>
@@ -496,31 +524,6 @@
     
     
     <category term="NoSQL" scheme="http://weistuday.com/tags/NoSQL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Java中的方法传递</title>
-    <link href="http://weistuday.com/posts/57604.html"/>
-    <id>http://weistuday.com/posts/57604.html</id>
-    <published>2020-10-06T07:11:02.000Z</published>
-    <updated>2020-10-30T13:19:15.210Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;Java中的方法传递机制&quot;&gt;&lt;a href=&quot;#Java中的方法传递机制&quot; class=&quot;headerlink&quot; title=&quot;Java中的方法传递机制&quot;&gt;&lt;/a&gt;Java中的方法传递机制&lt;/h1&gt;&lt;h2 id=&quot;1-代码如下&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Java基础" scheme="http://weistuday.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
-    
-    
-    <category term="Java基础" scheme="http://weistuday.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
