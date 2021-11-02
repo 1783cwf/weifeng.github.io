@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>威风的博客</title>
+  
+  
+  <link href="https://weistuday.com/atom.xml" rel="self"/>
+  
+  <link href="https://weistuday.com/"/>
+  <updated>2021-09-23T06:47:23.000Z</updated>
+  <id>https://weistuday.com/</id>
+  
+  <author>
+    <name>威风</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Camunda</title>
+    <link href="https://weistuday.com/posts/34119.html"/>
+    <id>https://weistuday.com/posts/34119.html</id>
+    <published>2021-07-16T13:50:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;原文地址： &lt;a href=&quot;https://docs.camunda.org/get-started/quick-start/&quot;&gt;https://docs.camunda.org/get-started/quick-start/&lt;/a&gt;&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Camunda" scheme="https://weistuday.com/categories/Camunda/"/>
+    
+    
+    <category term="Camunda" scheme="https://weistuday.com/tags/Camunda/"/>
+    
+    <category term="工作流" scheme="https://weistuday.com/tags/%E5%B7%A5%E4%BD%9C%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>React基础</title>
+    <link href="https://weistuday.com/posts/35233.html"/>
+    <id>https://weistuday.com/posts/35233.html</id>
+    <published>2021-06-01T02:50:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;React基础知识点&quot;&gt;&lt;a href=&quot;#React基础知识点&quot; class=&quot;headerlink&quot; title=&quot;React基础知识点&quot;&gt;&lt;/a&gt;React基础知识点&lt;/h1&gt;&lt;h2 id=&quot;什么是React&quot;&gt;&lt;a href=&quot;#什么是React&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="React" scheme="https://weistuday.com/categories/React/"/>
+    
+    
+    <category term="React" scheme="https://weistuday.com/tags/React/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring5</title>
+    <link href="https://weistuday.com/posts/22726.html"/>
+    <id>https://weistuday.com/posts/22726.html</id>
+    <published>2021-03-20T02:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1、参考资料&quot;&gt;&lt;a href=&quot;#1、参考资料&quot; class=&quot;headerlink&quot; title=&quot;1、参考资料&quot;&gt;&lt;/a&gt;1、参考资料&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://weistuday.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://weistuday.com/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷粒学院笔记</title>
+    <link href="https://weistuday.com/posts/39114.html"/>
+    <id>https://weistuday.com/posts/39114.html</id>
+    <published>2021-02-27T02:15:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;项目总结&quot;&gt;&lt;a href=&quot;#项目总结&quot; class=&quot;headerlink&quot; title=&quot;项目总结&quot;&gt;&lt;/a&gt;项目总结&lt;/h1&gt;&lt;h2 id=&quot;一-项目功能点&quot;&gt;&lt;a href=&quot;#一-项目功能点&quot; class=&quot;headerlink&quot; title=&quot;一</summary>
+        
+      
+    
+    
+    
+    <category term="Java Spring" scheme="https://weistuday.com/categories/Java-Spring/"/>
+    
+    
+    <category term="学习练手项目" scheme="https://weistuday.com/tags/%E5%AD%A6%E4%B9%A0%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL 语法速成手册</title>
+    <link href="https://weistuday.com/posts/24906.html"/>
+    <id>https://weistuday.com/posts/24906.html</id>
+    <published>2021-02-12T05:18:59.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;SQL-语法速成手册&quot;&gt;&lt;a href=&quot;#SQL-语法速成手册&quot; class=&quot;headerlink&quot; title=&quot;SQL 语法速成手册&quot;&gt;&lt;/a&gt;SQL</summary>
+        
+      
+    
+    
+    
+    <category term="SQL" scheme="https://weistuday.com/categories/SQL/"/>
+    
+    
+    <category term="SQL" scheme="https://weistuday.com/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷粒个人笔记</title>
+    <link href="https://weistuday.com/posts/62512.html"/>
+    <id>https://weistuday.com/posts/62512.html</id>
+    <published>2020-12-23T02:15:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;视频地址 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Java Spring" scheme="https://weistuday.com/categories/Java-Spring/"/>
+    
+    
+    <category term="学习练手项目" scheme="https://weistuday.com/tags/%E5%AD%A6%E4%B9%A0%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java1.8 Foreach</title>
+    <link href="https://weistuday.com/posts/1467.html"/>
+    <id>https://weistuday.com/posts/1467.html</id>
+    <published>2020-12-05T02:15:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;原文地址：&lt;a href=&quot;https://www.baeldung.com/foreach-java&quot;&gt;https://www.baeldung.com/foreach-java&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java1.8 Tutorial</title>
+    <link href="https://weistuday.com/posts/64452.html"/>
+    <id>https://weistuday.com/posts/64452.html</id>
+    <published>2020-12-01T02:15:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java-8-Tutorial&quot;&gt;&lt;a href=&quot;#Java-8-Tutorial&quot; class=&quot;headerlink&quot; title=&quot;Java 8 Tutorial&quot;&gt;&lt;/a&gt;Java 8 Tutorial&lt;/h1&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么要写博客?</title>
+    <link href="https://weistuday.com/posts/21454.html"/>
+    <id>https://weistuday.com/posts/21454.html</id>
+    <published>2020-11-14T05:18:59.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;1972年前,D.M.Ritchie 用C语言写出了世界上第一个C语言程序”Hello</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="https://weistuday.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://weistuday.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络攻防_工具(五)</title>
+    <link href="https://weistuday.com/posts/45005.html"/>
+    <id>https://weistuday.com/posts/45005.html</id>
+    <published>2020-11-12T11:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;dnsmap的使用&quot;&gt;&lt;a href=&quot;#dnsmap的使用&quot; class=&quot;headerlink&quot; title=&quot;dnsmap的使用&quot;&gt;&lt;/a&gt;dnsmap的使用&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;DNS域名暴力穷举工具&lt;/strong&gt;&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="网络" scheme="https://weistuday.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="网络" scheme="https://weistuday.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络攻防_工具(四)</title>
+    <link href="https://weistuday.com/posts/43417.html"/>
+    <id>https://weistuday.com/posts/43417.html</id>
+    <published>2020-11-11T12:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Arping&quot;&gt;&lt;a href=&quot;#Arping&quot; class=&quot;headerlink&quot; title=&quot;Arping&quot;&gt;&lt;/a&gt;Arping&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;ARP协议是”Address Resolution</summary>
+        
+      
+    
+    
+    
+    <category term="网络" scheme="https://weistuday.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="网络" scheme="https://weistuday.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络攻防_安装靶机(二)</title>
+    <link href="https://weistuday.com/posts/13365.html"/>
+    <id>https://weistuday.com/posts/13365.html</id>
+    <published>2020-11-08T08:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装靶机-二&quot;&gt;&lt;a href=&quot;#安装靶机-二&quot; class=&quot;headerlink&quot; title=&quot;安装靶机(二)&quot;&gt;&lt;/a&gt;安装靶机(二)&lt;/h2&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="网络" scheme="https://weistuday.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="网络" scheme="https://weistuday.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络攻防_kali常用命令(三)</title>
+    <link href="https://weistuday.com/posts/39855.html"/>
+    <id>https://weistuday.com/posts/39855.html</id>
+    <published>2020-11-08T07:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Kali-Linux-常用命令-三&quot;&gt;&lt;a href=&quot;#Kali-Linux-常用命令-三&quot; class=&quot;headerlink&quot; title=&quot;Kali Linux 常用命令(三)&quot;&gt;&lt;/a&gt;Kali Linux 常用命令(三)&lt;/h2&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="网络" scheme="https://weistuday.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="网络" scheme="https://weistuday.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>网络攻防_大概介绍(一)</title>
+    <link href="https://weistuday.com/posts/36363.html"/>
+    <id>https://weistuday.com/posts/36363.html</id>
+    <published>2020-11-08T01:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;网络安全事件&quot;&gt;&lt;a href=&quot;#网络安全事件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="网络" scheme="https://weistuday.com/categories/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+    <category term="网络" scheme="https://weistuday.com/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java1.8新特性</title>
+    <link href="https://weistuday.com/posts/26293.html"/>
+    <id>https://weistuday.com/posts/26293.html</id>
+    <published>2020-10-30T12:15:52.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Java1-8新特性&quot;&gt;&lt;a href=&quot;#Java1-8新特性&quot; class=&quot;headerlink&quot; title=&quot;Java1.8新特性&quot;&gt;&lt;/a&gt;Java1.8新特性&lt;/h1&gt;&lt;h3 id=&quot;Lambda表达式&quot;&gt;&lt;a href=&quot;#Lambda表达式&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+    <category term="Java基础" scheme="https://weistuday.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven的简单使用</title>
+    <link href="https://weistuday.com/posts/53788.html"/>
+    <id>https://weistuday.com/posts/53788.html</id>
+    <published>2020-10-15T05:11:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;maven的一些简单使用&quot;&gt;&lt;a href=&quot;#maven的一些简单使用&quot; class=&quot;headerlink&quot; title=&quot;maven的一些简单使用&quot;&gt;&lt;/a&gt;maven的一些简单使用&lt;/h1&gt;&lt;h2 id=&quot;1-maven介绍&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="项目管理工具" scheme="https://weistuday.com/categories/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="项目管理工具" scheme="https://weistuday.com/tags/%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Spring</title>
+    <link href="https://weistuday.com/posts/18155.html"/>
+    <id>https://weistuday.com/posts/18155.html</id>
+    <published>2020-10-12T02:38:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;SpringBoot-Dubbo整合&quot;&gt;&lt;a href=&quot;#SpringBoot-Dubbo整合&quot; class=&quot;headerlink&quot; title=&quot;SpringBoot+Dubbo整合&quot;&gt;&lt;/a&gt;SpringBoot+Dubbo整合&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Spring" scheme="https://weistuday.com/categories/Spring/"/>
+    
+    
+    <category term="Spring" scheme="https://weistuday.com/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MD简介语法说明</title>
+    <link href="https://weistuday.com/posts/9410.html"/>
+    <id>https://weistuday.com/posts/9410.html</id>
+    <published>2020-10-10T05:11:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Markdown-简洁语法说明&quot;&gt;&lt;a href=&quot;#Markdown-简洁语法说明&quot; class=&quot;headerlink&quot; title=&quot;Markdown 简洁语法说明&quot;&gt;&lt;/a&gt;Markdown 简洁语法说明&lt;/h1&gt;&lt;h2 id=&quot;0-前言&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="工作软技能" scheme="https://weistuday.com/categories/%E5%B7%A5%E4%BD%9C%E8%BD%AF%E6%8A%80%E8%83%BD/"/>
+    
+    
+    <category term="工作软技能" scheme="https://weistuday.com/tags/%E5%B7%A5%E4%BD%9C%E8%BD%AF%E6%8A%80%E8%83%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux上安装solr及简单配置</title>
+    <link href="https://weistuday.com/posts/11794.html"/>
+    <id>https://weistuday.com/posts/11794.html</id>
+    <published>2020-10-07T15:11:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;安装solr&quot;&gt;&lt;a href=&quot;#安装solr&quot; class=&quot;headerlink&quot; title=&quot;安装solr&quot;&gt;&lt;/a&gt;安装solr&lt;/h2&gt;&lt;h3 id=&quot;1-直接安装solr&quot;&gt;&lt;a href=&quot;#1-直接安装solr&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://weistuday.com/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://weistuday.com/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在windows下的Mongodb安装及简单使用</title>
+    <link href="https://weistuday.com/posts/21092.html"/>
+    <id>https://weistuday.com/posts/21092.html</id>
+    <published>2020-10-06T07:30:02.000Z</published>
+    <updated>2021-09-23T06:47:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Mongodb安装&quot;&gt;&lt;a href=&quot;#Mongodb安装&quot; class=&quot;headerlink&quot; title=&quot;Mongodb安装&quot;&gt;&lt;/a&gt;Mongodb安装&lt;/h1&gt;&lt;h2 id=&quot;1-mongodb介绍&quot;&gt;&lt;a href=&quot;#1-mongodb介绍&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="NoSQL" scheme="https://weistuday.com/categories/NoSQL/"/>
+    
+    
+    <category term="NoSQL" scheme="https://weistuday.com/tags/NoSQL/"/>
+    
+  </entry>
+  
+</feed>
